@@ -1,2 +1,2 @@
 # art_movement_identifier
-An DataScience project looking for identifying Art Movements across paintings. 
+A DataScience project looking for identifying Art Movements across paintings. 
